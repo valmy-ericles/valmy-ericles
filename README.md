@@ -15,6 +15,7 @@ On this profile you will find many repositories that has:
       <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
       <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />
+            <img align="left" style="padding-right: 12px" alt="Redux" width="32px" src="https://github.com/github/explore/raw/master/topics/redux/redux.png" />
       <img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" />
       <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />
       <img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" />
