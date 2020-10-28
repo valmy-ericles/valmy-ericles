@@ -21,7 +21,8 @@ On this profile you will find many repositories that has:
       <img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" />
       <img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/master/topics/mongodb/mongodb.png" />
       <img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />
-    </a>
+      <img align="left" style="padding-right: 12px" alt="Heroku" width="32px" src="https://github.com/github/explore/raw/master/topics/heroku/heroku.png" />
+   </a>
   </td>
 </tr>
   <tr>
