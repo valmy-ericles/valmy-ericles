@@ -15,9 +15,8 @@ On this profile you will find many repositories that has:
       <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
       <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
       <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />
-      <img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/master/topics/vue/vue.png" />
+      <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/reactnative/reactnative.png" />
       <img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" />
-      <img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://github.com/github/explore/raw/master/topics/go/go.png" />
       <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />
       <img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" />
       <img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/master/topics/mongodb/mongodb.png" />
