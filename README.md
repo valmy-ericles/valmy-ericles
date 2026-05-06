@@ -4,7 +4,7 @@
 On this profile you will find many repositories that has:
 
 - Open Source Code
-- Many different languages like Ruby and JavaScript.
+- Many different languages like Typescript and Ruby.
 
 ### About me
 
